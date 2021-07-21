@@ -1,0 +1,13 @@
+C:\Users\ionut.faca\source\repos\CleanTest\CleanTest.Infrastructure\obj\Debug\netcoreapp3.1\CleanTest.Infrastructure.csprojAssemblyReference.cache
+C:\Users\ionut.faca\source\repos\CleanTest\CleanTest.Infrastructure\obj\Debug\netcoreapp3.1\CleanTest.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ionut.faca\source\repos\CleanTest\CleanTest.Infrastructure\obj\Debug\netcoreapp3.1\CleanTest.Infrastructure.AssemblyInfo.cs
+C:\Users\ionut.faca\source\repos\CleanTest\CleanTest.Infrastructure\bin\Debug\netcoreapp3.1\CleanTest.Infrastructure.deps.json
+C:\Users\ionut.faca\source\repos\CleanTest\CleanTest.Infrastructure\bin\Debug\netcoreapp3.1\CleanTest.Infrastructure.dll
+C:\Users\ionut.faca\source\repos\CleanTest\CleanTest.Infrastructure\bin\Debug\netcoreapp3.1\CleanTest.Infrastructure.pdb
+C:\Users\ionut.faca\source\repos\CleanTest\CleanTest.Infrastructure\obj\Debug\netcoreapp3.1\CleanTest.Infrastructure.dll
+C:\Users\ionut.faca\source\repos\CleanTest\CleanTest.Infrastructure\obj\Debug\netcoreapp3.1\CleanTest.Infrastructure.pdb
+C:\Users\ionut.faca\source\repos\CleanTest\CleanTest.Infrastructure\bin\Debug\netcoreapp3.1\CleanTest.Domain.dll
+C:\Users\ionut.faca\source\repos\CleanTest\CleanTest.Infrastructure\bin\Debug\netcoreapp3.1\CleanTest.Domain.pdb
+C:\Users\ionut.faca\source\repos\CleanTest\CleanTest.Infrastructure\obj\Debug\netcoreapp3.1\CleanTest.Infrastructure.csproj.CopyComplete
+C:\Users\ionut.faca\source\repos\CleanTest\CleanTest.Infrastructure\bin\Debug\netcoreapp3.1\CleanTest.Application.dll
+C:\Users\ionut.faca\source\repos\CleanTest\CleanTest.Infrastructure\bin\Debug\netcoreapp3.1\CleanTest.Application.pdb

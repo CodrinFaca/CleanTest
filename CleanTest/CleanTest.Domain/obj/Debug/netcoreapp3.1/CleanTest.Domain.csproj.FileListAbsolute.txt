@@ -1,0 +1,8 @@
+C:\Users\ionut.faca\source\repos\CleanTest\CleanTest.Domain\bin\Debug\netcoreapp3.1\CleanTest.Domain.deps.json
+C:\Users\ionut.faca\source\repos\CleanTest\CleanTest.Domain\bin\Debug\netcoreapp3.1\CleanTest.Domain.dll
+C:\Users\ionut.faca\source\repos\CleanTest\CleanTest.Domain\obj\Debug\netcoreapp3.1\CleanTest.Domain.AssemblyInfoInputs.cache
+C:\Users\ionut.faca\source\repos\CleanTest\CleanTest.Domain\obj\Debug\netcoreapp3.1\CleanTest.Domain.AssemblyInfo.cs
+C:\Users\ionut.faca\source\repos\CleanTest\CleanTest.Domain\bin\Debug\netcoreapp3.1\CleanTest.Domain.pdb
+C:\Users\ionut.faca\source\repos\CleanTest\CleanTest.Domain\obj\Debug\netcoreapp3.1\CleanTest.Domain.csprojAssemblyReference.cache
+C:\Users\ionut.faca\source\repos\CleanTest\CleanTest.Domain\obj\Debug\netcoreapp3.1\CleanTest.Domain.dll
+C:\Users\ionut.faca\source\repos\CleanTest\CleanTest.Domain\obj\Debug\netcoreapp3.1\CleanTest.Domain.pdb
